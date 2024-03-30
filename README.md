@@ -26,7 +26,7 @@ The applications can be run as follows:
 - Serial version:
 ```./serial <input_image> <mask_file> <output_image>```
 
--OpenMP Parallel version:
+- OpenMP Parallel version:
 ```./openmp <input_image> <mask_file> <output_image> <number_of_threads>```
 
 Example:
